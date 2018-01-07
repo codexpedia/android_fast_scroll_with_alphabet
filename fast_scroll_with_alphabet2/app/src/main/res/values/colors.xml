@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="alphabet_text_color">#9E9E9E</color>
+    <color name="alphabet_text_selected_color">#3F51B5</color>
+    <color name="alphabet_background_color">#F5F5F5</color>
+    <color name="alphabet_background_selected_color">#9E9E9E</color>
+    <color name="alphabet_background_border_color">#9E9E9E</color>
+</resources>
