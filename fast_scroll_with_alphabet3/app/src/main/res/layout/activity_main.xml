@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </android.support.v7.widget.RecyclerView>
+
+    <LinearLayout
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@android:color/transparent"
+        app:layout_constraintEnd_toEndOf="parent">
+        <TextView android:id="@+id/a" android:text="A" android:tag="a" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/b" android:text="B" android:tag="b" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/c" android:text="C" android:tag="c" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/d" android:text="D" android:tag="d" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/e" android:text="E" android:tag="e" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/f" android:text="F" android:tag="f" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/g" android:text="G" android:tag="g" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/h" android:text="H" android:tag="h" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/i" android:text="I" android:tag="i" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/j" android:text="J" android:tag="j" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/k" android:text="K" android:tag="k" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/l" android:text="L" android:tag="l" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/m" android:text="M" android:tag="m" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/n" android:text="N" android:tag="n" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/o" android:text="O" android:tag="o" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/p" android:text="P" android:tag="p" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/q" android:text="Q" android:tag="q" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/r" android:text="R" android:tag="r" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/s" android:text="S" android:tag="s" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/t" android:text="T" android:tag="t" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/u" android:text="U" android:tag="u" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/v" android:text="V" android:tag="v" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/w" android:text="W" android:tag="w" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/x" android:text="X" android:tag="x" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/y" android:text="Y" android:tag="y" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:id="@+id/z" android:text="Z" android:tag="z" android:onClick="onScrollbarLettterClick" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
