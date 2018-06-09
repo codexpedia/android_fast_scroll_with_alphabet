@@ -16,7 +16,8 @@
     <dimen name="font_x_large">24sp</dimen>
 
     <!-- alphabet fast scroller -->
-    <dimen name="alphabet_width">30dp</dimen>
+    <dimen name="alphabet_width">24dp</dimen>
     <dimen name="alphabet_padding">2dp</dimen>
+    <dimen name="alphabet_letter_size">10sp</dimen>
 
 </resources>
